@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# PDFs & temp files
+*.pdf
+temp_*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+.env
